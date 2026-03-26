@@ -6679,10 +6679,10 @@
 			"updated": "2026-03-25"
 		},
 		{
-			"name": "poshGent",
+			"name": "posh-gent",
 			"display_name": "Posh Gentleman",
 			"version": "1.0.0",
-			"description": "A posh gentleman's voice lines for your refined peon experience",
+			"description": "A posh gentleman for your refined peon experience",
 			"author": {
 				"name": "13zebras",
 				"github": "13zebras"
@@ -6702,10 +6702,10 @@
 			"license": "CC-BY-NC-4.0",
 			"sound_count": 19,
 			"total_size_bytes": 1217952,
-			"source_repo": "13zebras/openpeon-poshGent",
+			"source_repo": "13zebras/openpeon-posh-gent",
 			"source_ref": "v1.0.0",
 			"source_path": ".",
-			"manifest_sha256": "af4cea7ec17b3a60b60508ac3606dd43b12face754e8e06320d90d2b3210be93",
+			"manifest_sha256": "04d2653cbd0068b7155d212e08019a1b510b2679451b04c92a3b921a42731354",
 			"tags": [
 				"posh",
 				"gentleman"
