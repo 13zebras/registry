@@ -6705,7 +6705,7 @@
 			"source_repo": "13zebras/openpeon-posh-gent",
 			"source_ref": "v1.0.0",
 			"source_path": ".",
-			"manifest_sha256": "04d2653cbd0068b7155d212e08019a1b510b2679451b04c92a3b921a42731354",
+			"manifest_sha256": "4ea23ceebd76e98026c184e60fd76e804e9197ec5d30d5a1f41119e8a6cf2c94",
 			"tags": [
 				"posh",
 				"gentleman"
